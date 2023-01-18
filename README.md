@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Welcome
+<p align="center"> ## Welcome </p>
 
 
 **My name is < Nazir Ahmad /> I am software engineer & database developer from Afghanistan**
