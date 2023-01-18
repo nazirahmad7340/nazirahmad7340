@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<p align="center"> ## Welcome </p>
+## <p align="center"> Welcome </p>
 
 
-**My name is < Nazir Ahmad /> I am software engineer & database developer from Afghanistan**
+** <p align="center"> My name is < Nazir Ahmad /> I am software engineer & database developer from Afghanistan </p> **
 
 Contact me:
 
