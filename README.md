@@ -11,6 +11,6 @@ Contact me:
 
 :telephone_receiver: +1 (1818) 666 1609
 
-:point_right: [WhatSapp]([url](https://web.whatsapp.com/send?phone=+937597340&amp;text=Hi Nazir I am Come from your GitHub!))
+:point_right: [WhatSapp]([https://web.whatsapp.com/send?phone=+937597340&amp;text=Hi Nazir I am Come from your GitHub!)
 
-:point_right: [Telegram]([url](http://t.me/nazirahmad7340))
+:point_right: [Telegram](http://t.me/nazirahmad7340)
